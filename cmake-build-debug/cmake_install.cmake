@@ -1,4 +1,4 @@
-# Install script for directory: /Users/roberto/Dropbox/CLionProjects/util++
+# Install script for directory: /Users/roberto/Dropbox/CLionProjects/utilcpp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/roberto/Dropbox/CLionProjects/util++/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/roberto/Dropbox/CLionProjects/utilcpp/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
