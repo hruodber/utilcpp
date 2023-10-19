@@ -6,7 +6,7 @@
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.26"
@@ -19,7 +19,7 @@
 					]
 				}
 			],
-			"name" : "Release",
+			"name" : "Debug",
 			"projects" : 
 			[
 				{
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "utilcpp::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-utilcpp-Release-ddfff9eef0c41ffcf6a7.json",
+					"jsonFile" : "target-utilcpp-Debug-447e5350a2711d639769.json",
 					"name" : "utilcpp",
 					"projectIndex" : 0
 				}
@@ -49,7 +49,7 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/roberto/Dropbox/CLionProjects/utilcpp/cmake-build-release",
+		"build" : "/Users/roberto/Dropbox/CLionProjects/utilcpp/cmake-build-debug",
 		"source" : "/Users/roberto/Dropbox/CLionProjects/utilcpp"
 	},
 	"version" : 
